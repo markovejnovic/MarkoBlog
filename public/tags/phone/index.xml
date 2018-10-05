@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phone on Marko Vejnovic</title>
+    <link>https://markovejnovic.com/tags/phone/</link>
+    <description>Recent content in Phone on Marko Vejnovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://markovejnovic.com/tags/phone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flashing a Chinese Phone</title>
+      <link>https://markovejnovic.com/blog/flashing-a-chinese-phone/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/blog/flashing-a-chinese-phone/</guid>
+      <description>Introduction So, about three days ago, I managed to get my hands on a cheapish second hand Xiaomi Redmi Note 4. I didn&amp;rsquo;t really have a phone for almost a year, and living without a phone in China to be very difficult. I decided to buy a cheap phone on Xianyu.
+Buying the phone After looking around a bit, I concluded that the Xiaomi Redmi 4X seemed to be a good phone for my requirements.</description>
+    </item>
+    
+  </channel>
+</rss>

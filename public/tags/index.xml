@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Marko Vejnovic</title>
+    <link>https://markovejnovic.com/tags/</link>
+    <description>Recent content in Tags on Marko Vejnovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://markovejnovic.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activity</title>
+      <link>https://markovejnovic.com/tags/activity/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://markovejnovic.com/tags/android/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiddling</title>
+      <link>https://markovejnovic.com/tags/fiddling/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/fiddling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guitar</title>
+      <link>https://markovejnovic.com/tags/guitar/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/guitar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://markovejnovic.com/tags/music/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://markovejnovic.com/tags/personal/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://markovejnovic.com/tags/phone/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://markovejnovic.com/tags/random/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://markovejnovic.com/tags/web-development/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://markovejnovic.com/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
