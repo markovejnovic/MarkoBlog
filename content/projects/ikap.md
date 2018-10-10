@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Introduction
-UWC Changshu China, the school I attend, has a single kitchen available to the students. This kitchen is shared between all of the students. The system for managing the usage of the kitchen (using paper forms) proved to be ineffective and overly complicated. I wished to improve on this design by implementing an online booking system. Currently, this software is hosted on [ikcsc.site](http://www.ikcsc.site).
+UWC Changshu China, the school I attend, has a single kitchen available to the students. This kitchen is shared between all of the students. The system for managing the usage of the kitchen (using paper forms) proved to be ineffective and overly complicated. I wished to improve on this design by implementing an online booking system. Currently, this software is hosted on [ikcsc.site](http://ikcsc.site).
 
 ## System
 
