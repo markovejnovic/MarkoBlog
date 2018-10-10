@@ -108,6 +108,22 @@
   </url>
   
   <url>
+    <loc>https://markovejnovic.com/activities/fencing/</loc>
+    <lastmod>2014-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markovejnovic.com/activities/karate/</loc>
+    <lastmod>2006-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://markovejnovic.com/activities/</loc>
+    <lastmod>2014-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://markovejnovic.com/tags/activity/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
