@@ -74,7 +74,7 @@ Sadly, I am quite busy to commit fully to this website, but when I have time, I 
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0200</pubDate>
       
       <guid>https://markovejnovic.com/projects/ikap/</guid>
-      <description>Introduction UWC Changshu China, the school I attend, has a single kitchen available to the students. This kitchen is shared between all of the students. The system for managing the usage of the kitchen (using paper forms) proved to be ineffective and overly complicated. I wished to improve on this design by implementing an online booking system. Currently, this software is hosted on ikcsc.tk.
+      <description>Introduction UWC Changshu China, the school I attend, has a single kitchen available to the students. This kitchen is shared between all of the students. The system for managing the usage of the kitchen (using paper forms) proved to be ineffective and overly complicated. I wished to improve on this design by implementing an online booking system. Currently, this software is hosted on ikcsc.site.
 System The system is comprised of two elements1: a SQLite database and a Java2 application which handles database management and provides the frontend.</description>
     </item>
     
