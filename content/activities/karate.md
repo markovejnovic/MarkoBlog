@@ -15,6 +15,7 @@ I grew up with Karate. It helped me develop both physically and mentally.
 
 After many years of hard work, in 2017, I achieved the first Dan - the first
 black belt.
+
 ![Black
 Belt](https://scontent-hkg3-1.xx.fbcdn.net/v/t31.0-8/16804230_1211280602313340_2855669937668512582_o.jpg?_nc_cat=111&oh=5e6e2b308252b067095493971e380c1d&oe=5C15CC88)
 
