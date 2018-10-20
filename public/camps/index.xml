@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camps on Marko Vejnovic</title>
+    <link>https://markovejnovic.com/camps/</link>
+    <description>Recent content in Camps on Marko Vejnovic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Sep 2018 16:54:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://markovejnovic.com/camps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camps</title>
+      <link>https://markovejnovic.com/camps/camps/</link>
+      <pubDate>Thu, 20 Sep 2018 16:54:06 +0800</pubDate>
+      
+      <guid>https://markovejnovic.com/camps/camps/</guid>
+      <description>I&amp;rsquo;ve had the opportunity of attending some courses and camps which are listed here.</description>
+    </item>
+    
+    <item>
+      <title>MINT Project - HHG Kaiserslautern, Grammar School Banja Luka</title>
+      <link>https://markovejnovic.com/camps/mint/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://markovejnovic.com/camps/mint/</guid>
+      <description>This project was a student exchange between HHG Kaiserslautern and my old school - The Grammar School of Banja Luka. The project was targetting students who were interested in and excel at mathematics, ICT, science, etc.
+The goal was for stduents of HHG and The Grammar School of Banja Luka to work together to build a 3D printer, and present improvements for the printer, including solutions for problems. The printer was successfully constructed, but due to limited time, improvements to the printer were very limited.</description>
+    </item>
+    
+    <item>
+      <title>Petnica</title>
+      <link>https://markovejnovic.com/camps/petnica/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://markovejnovic.com/camps/petnica/</guid>
+      <description>The Petnica is an independent institution of which the main goal is the development of scientific culture, scientific literacy and education in general. It offers week-long courses in various fields of science.
+In 2016, after an application, I was invited to the winter mathematical-technical course of the institution. This course, I&amp;rsquo;d say, wasn&amp;rsquo;t special in any specific matter, but it did open my eyes to another way of looking at science and engineering.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Pitam Da&#34; Camp for young software engineers</title>
+      <link>https://markovejnovic.com/camps/pitam-da/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://markovejnovic.com/camps/pitam-da/</guid>
+      <description>The Pitam Da camp for young software engineers is a camp organized in my old school, The Grammar School of Banja Luka, for aspiring software engineers. I joined the camp in grade 10.
+The camp was about teaching us useful concepts ranging from objective-oriented programming to threads. However, I found the course to be a tad too slow, Windows-focused and business-centered, which, at the time, I was not interested in.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -59,6 +59,17 @@ Design I had the idea of using PVC tubes as a skeleton and a tarpauline sheet as
     </item>
     
     <item>
+      <title>Pickup Winder</title>
+      <link>https://markovejnovic.com/projects/pickup-winder/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://markovejnovic.com/projects/pickup-winder/</guid>
+      <description>Introduction When I was working on building my Flying V, since I wanted to wind my own pickups, I realized I needed to make a machine that can wind them.
+So, I had to make a pickup winder. And, well, I did!
+Design So, basically, it was a simple motor controlled by an Arduino Uno and an H-bridge. I added an encoder so that I can count the number of revolutions made, since I wanted to keep that close for two bobbins of a humbucker.</description>
+    </item>
+    
+    <item>
       <title>BlenderTextGenerator</title>
       <link>https://markovejnovic.com/projects/blendertextgenerator/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0200</pubDate>

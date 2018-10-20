@@ -153,3 +153,12 @@ style="width:300px; display:block; margin:0 auto">
 Well, for now, I'd definitely say I'm happy with _AOSPExtended_, but I do plan 
 on finding a more lightweight ROM, which is more tweaked to my preferences. Who
 knows? I might even make my own launcher...
+
+## Update 1
+
+Well, turns out, _AOSPExtended_ was horrible. After a few weeks it got
+extremely bogged down. I replaced with [dotOS](https://www.droidontime.com/)
+which is fantastic. Right off the bat, it's far more responsive, clearer and
+overall nicer. It doesn't have as many customization options, but I can't
+really complain, since the battery is longer and the performance is far better
+(I'd even say better than _Mi Ui_.
