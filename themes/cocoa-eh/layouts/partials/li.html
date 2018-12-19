@@ -1,4 +1,20 @@
 <li class="post-item">
-    <span class="meta">{{ .Date.Format .Site.Params.dateform }}</span>
-    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+	{{ if (or (eq "activities" .Section) (eq "services" .Section)) }}
+		<span clas="meta" style="min-width:100px; color: #666666; font-size:
+			14px; ">
+			{{ dateFormat "2006" .Params.from }}-{{ dateFormat "2006" .Params.to}}
+		</span>
+	{{ else if (eq "camps" .Section) }}
+		<span clas="meta" style="min-width:100px; color: #666666; font-size:
+			14px; ">
+			Year {{ .Date.Format "2006" }}
+		</span>
+	{{ else }}
+		<span class="meta">{{ .Date.Format .Site.Params.dateform }}</span>
+	{{ end }}
+	{{ if .Params.draft }}
+		<a href="{{ .RelPermalink }}"><span>Draft::{{ .Title }}</span></a>
+	{{ else }}
+		<a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a>
+	{{ end }}
 </li>

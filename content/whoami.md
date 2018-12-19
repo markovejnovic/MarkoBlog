@@ -1,5 +1,6 @@
 ---
 title: "whoami"
+draft: false
 ---
 
 [Who Am I?](https://ss64.com/bash/whoami.html)

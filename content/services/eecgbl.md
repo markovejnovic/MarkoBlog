@@ -2,6 +2,8 @@
 title: "Electrical Engineering Club of The Grammar School of Banja Luka"
 date: 2016-01-01T00:00:00+02:00
 draft: false
+from: 2016-01-01T00:00:00+02:00
+to: 2017-01-01T00:00:00+02:00
 ---
 
 The electrical engineering club of The Grammar School of Banja Luka was founded

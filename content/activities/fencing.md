@@ -2,6 +2,8 @@
 title: "Fencing"
 date: 2014-01-01T00:00:00+02:00
 draft: false
+from: 2014-01-01T00:00:00+02:00
+to: 2017-01-01T00:00:00+02:00
 ---
 
 In 2014, an Italian fencer by the name of _Giacomo Fanizza_ came to my hometown

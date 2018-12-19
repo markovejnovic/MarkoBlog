@@ -2,6 +2,8 @@
 title: "Gliding"
 date: 2016-01-01T00:00:00+02:00
 draft: false
+from: 2016-01-01T00:00:00+02:00
+to: 2018-01-01T00:00:00+02:00
 ---
 
 In the summer of 2016, I had the opportunity of going through basic training

@@ -2,6 +2,8 @@
 title: "Programming Club of UWC Changshu China"
 date: 2017-01-01T00:00:00+02:00
 draft: false
+from: 2017-01-01T00:00:00+02:00
+to: 2018-01-01T00:00:00+02:00
 ---
 
 In _UWC Changshu_, I heard that people were interested in programming. Rumor

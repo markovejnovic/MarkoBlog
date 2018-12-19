@@ -2,6 +2,8 @@
 title: "Karate"
 date: 2006-01-01T00:00:00+02:00
 draft: false
+from: 2006-01-01T00:00:00+02:00
+to: 2017-01-01T00:00:00+02:00
 ---
 
 In 2006, I was inspired by the likes of actors like _Jackie Chan_ to pick up a
