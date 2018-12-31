@@ -21,7 +21,7 @@ hugo
 After downloading `hugo`, clone the repository:
 
 ```bash
-git clone git@github.com/markovejnovic/MarkoBlog
+git clone git@github.com:markovejnovic/MarkoBlog
 ```
 
 Next, `cd` into the directory:

@@ -4,13 +4,15 @@ date: 2018-07-03T00:00:00+02:00
 draft: false
 ---
 
-# Introduction Given my musical interests, I enjoy electrical guitars, and
-instruments in general. As I've never had a humbucker set-up guitar and I
-couldn't afford one myself, I decided to make one myself. I thought it would be
-a great idea to actually learn some woodworking, since all of my woodworking
-experience prior to this was minor. Given that my father has already made two
-electrics guitar, I asked him to help me build it, but to teach me, rather than
-making it himself.
+# Introduction
+
+Given my musical interests, I enjoy electrical guitars, and instruments in
+general. As I've never had a humbucker set-up guitar and I couldn't afford one
+myself, I decided to make one myself. I thought it would be a great idea to
+actually learn some woodworking, since all of my woodworking experience prior
+to this was minor. Given that my father has already made two electrics guitar,
+I asked him to help me build it, but to teach me, rather than making it
+himself.
 
 ![Guitar](/img/flying-v/guitar.jpg)
 
